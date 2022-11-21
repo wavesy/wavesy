@@ -1,4 +1,7 @@
-### Hi there 👋
+### Greetings
+
+This is my repository showcasing some (but definetly not all) projects I've worked with along the years.
+Currently I'm studying embedded systems, hoping to land a part time job to work and learn at alongside studying.
 
 <!--
 **wavesy/wavesy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
